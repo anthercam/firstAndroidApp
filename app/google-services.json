@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "142536860607",
+    "firebase_url": "https://logindemo-17283.firebaseio.com",
+    "project_id": "logindemo-17283",
+    "storage_bucket": "logindemo-17283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142536860607:android:00595169eaac2852",
+        "android_client_info": {
+          "package_name": "com.example.antreq.samplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142536860607-qsu48k52k14gi8qp0c3tcganqq4l1jua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDv9vAU9MBP1lMXs8LuytY2A4lRrp-Jqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
